@@ -74,7 +74,6 @@ Execute code in restricted environment (sandboxing).
  <contents>
   <dir name="/">
    <dir name="tests">
-    <file name="runkit_add_magic_methods.phpt" role="test" />
     <file name="runkit_add_old_style_ctor.phpt" role="test" />
     <file name="runkit_add_old_style_ctor1.phpt" role="test" />
     <file name="runkit_add_old_style_ctor_by_adopting.phpt" role="test" />
