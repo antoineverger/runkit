@@ -74,7 +74,7 @@ Execute code in restricted environment (sandboxing).
  <contents>
   <dir name="/">
    <dir name="tests">
-    <file name="runkit_add_old_style_ctor.phpt" role="test" />
+    <!--<file name="runkit_add_old_style_ctor.phpt" role="test" />
     <file name="runkit_add_old_style_ctor1.phpt" role="test" />
     <file name="runkit_add_old_style_ctor_by_adopting.phpt" role="test" />
     <file name="runkit_add_old_style_ctor_by_copying.phpt" role="test" />
@@ -222,7 +222,7 @@ Execute code in restricted environment (sandboxing).
     <file name="runkit_static_property_add_existing.phpt" role="test" />
     <file name="runkit_static_property_add_to_subclasses.phpt" role="test" />
     <file name="runkit_superglobals.phpt" role="test" />
-   </dir> <!-- //tests -->
+   </dir>--> <!-- //tests -->
    <file name="config.m4" role="src" />
    <file name="config.w32" role="src" />
    <file name="php_runkit.h" role="src" />
